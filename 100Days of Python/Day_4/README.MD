@@ -1,0 +1,1 @@
+Today we will write our first program. It will consist bunch of print statements. Print can be used to print print something on the console in python.
