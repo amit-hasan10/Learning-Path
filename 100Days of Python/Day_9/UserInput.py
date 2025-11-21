@@ -1,0 +1,11 @@
+# a = input()
+# print(a)
+# x = input("Enter your name: ")
+# print("Hello " , x)
+# y = input("Enter your age: ")
+# print("You are " , y , " years old.")
+
+c = input("Enter your first number: ")
+d = input("Enter your second number: ")
+sum = int(c) + int(d)
+print(sum)
