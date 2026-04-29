@@ -15,3 +15,9 @@ age = "3"
 name = int(name)
 age = int(age)
 print(name+age)
+
+print(int(name) + int(age))
+
+d= 1
+e = 1.2
+print(d+e)
