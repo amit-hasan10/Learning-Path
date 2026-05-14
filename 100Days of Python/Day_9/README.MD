@@ -22,6 +22,6 @@ print(a)
 ```
 ## Output:
 ```
-Enter the name: CodeWithTanim
-CodeWithTanim
+Enter the name: Amit
+Amit
 ```

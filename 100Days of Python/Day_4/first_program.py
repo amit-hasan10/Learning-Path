@@ -6,3 +6,9 @@ print(5) # This will print the number 5
 print(10 + 5) # This will print the result of 10 + 5 = 15
 print("5 + 5") # This will print the string "5 + 5"
 print("Hello" + " World!") # This will print the concatenated string "Hello World
+
+#Variable Names:
+# A variable can have short name like x,y and descriptive names like (age, var, car)
+# Camal Case: myVariableName
+# Pascal Case: MyVariableName
+# Snake Case: my_variable_name
